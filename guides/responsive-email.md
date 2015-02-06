@@ -73,15 +73,13 @@ Include the full name of the organization. If the nature of the email is specifi
 
 Example from Consumer Response.
 
-> Consumer Financial Protection Bureau
-
-> (855) 555-1234
+    Consumer Financial Protection Bureau
+    (855) 555-1234
 
 Example from Extranet Support Team.
 
-> Extranet Support Team
-
-> Consumer Financial Protection Bureau
+    Extranet Support Team
+    Consumer Financial Protection Bureau
 
 ---
 
@@ -92,8 +90,6 @@ A notice may be used at the bottom of the email if required. There are currently
 The current notice language follows.
 
 > Confidentiality Notice: If you received this email by mistake, please notify the sender of the mistake and delete the e-mail and any attachments. An inadvertent disclosure is not intended to waive any privileges.
-
----
  
 <h2 id="message_content">Message content</h2>
 
