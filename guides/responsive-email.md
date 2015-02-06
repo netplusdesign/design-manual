@@ -73,12 +73,12 @@ Include the full name of the organization. If the nature of the email is specifi
 
 Example from Consumer Response.
 
-    Consumer Financial Protection Bureau
+    Consumer Financial Protection Bureau  
     (855) 555-1234
 
 Example from Extranet Support Team.
 
-    Extranet Support Team
+    Extranet Support Team  
     Consumer Financial Protection Bureau
 
 ---
